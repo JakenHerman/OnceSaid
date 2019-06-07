@@ -1,6 +1,8 @@
 {
   "name": "OnceSaid",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "7b205830"
 }
